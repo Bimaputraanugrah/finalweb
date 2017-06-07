@@ -32,7 +32,7 @@
 .responsif .drop {background-color: rgba(0,0,0,.5);}
 .responsif .nav {background-color: rgba(0,0,0, .5);; min-height: 60px;display: block; position: relative;}
 
-.bann {display: block; padding-top: 100px}
+.bann {display: block; padding-top: 70px}
 .bann .t1 {font-family: 'caroselo'; font-size: 48px; color: #fff; margin: 0 auto; text-align: center;}
 .bann .t2 {font-family: 'avenir-bold'; font-size: 62px; color: #fff;margin: 0 auto; text-align: center;}
 .bann .t3 {width: 50%;font-family: 'regular'; font-size: 20px; color: #fff;margin: 0 auto; text-align: center;}
